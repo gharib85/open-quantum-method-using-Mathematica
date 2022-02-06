@@ -1,2 +1,2 @@
-# open-quantum-method-using-Mathematica
+# open-quantum-methods-using-Mathematica
 Miscellaneous notebooks for illustration
